@@ -1,0 +1,6 @@
+{
+    "[dart]": {
+        "editor.detectIndentation": true,
+        "editor.tabSize": 4
+    }
+}
